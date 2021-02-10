@@ -7,8 +7,15 @@ public class Main {
         System.out.println("Hello Students!");
 
         System.out.println("never gonna give you up");
+
+        martijnWasHere();
+    }
+    
+    public static void martijnWasHere() {
+        System.out.println("Martijn was here!");
     }
 
+    // Capital S? Bad!
     public static void SayHello() {
         System.out.println("Hello");
     }
